@@ -1,0 +1,19 @@
+.bg-blue {
+    background-color: rgb(0, 114, 175);
+}
+
+.bg-grey {
+    background-color: rgb(223, 223, 223);
+}
+.city-search {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
+}
